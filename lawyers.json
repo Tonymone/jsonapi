@@ -2,6 +2,7 @@
 {
 "id": "thapaserialnoa",
 "name": "Aryan Kumar",
+"mail": "aryankumar1234@gmail.com",
 "company": "apple",
 "price": 6000,
 "colors": [
@@ -22,6 +23,7 @@
 {
 "id": "thapaserialnob",
 "name": "Tony Thomas",
+"mail": "tonymone1234@gmail.com",
 "company": "samsung",
 "price": 5000000,
 "colors": [
@@ -41,6 +43,7 @@
 {
 "id": "thapaserialnoc",
 "name": "Vishal Jadhav",
+"mail": "vishaljadhav1234@gmail.com",
 "company": "dell",
 "price": 600000,
 "colors": [
@@ -58,7 +61,8 @@
 },
 {
 "id": "thapaserialnod",
-"name": "Nokia 420",
+"name": "Amit Kumar",
+"mail": "amitkumar1234@gmail.com",
 "company": "nokia",
 "price": 12599,
 "colors": [
@@ -78,7 +82,8 @@
 },
 {
 "id": "thapaserialnoe",
-"name": "Mac Pc",
+"name": "Rajiv Mishra",
+"mail": "rajivmishra1234@gmail.com",
 "company": "apple",
 "price": 4000099,
 "colors": [
@@ -97,7 +102,8 @@
 },
 {
 "id": "thapaserialnof",
-"name": "Macbook Pro",
+"name": "Sandeep Shrivastav",
+"mail": "sandeepshri1234@gmail.com",
 "company": "apple",
 "price": 42999,
 "colors": [
@@ -116,7 +122,8 @@
 },
 {
 "id": "thapaserialnog",
-"name": "Asus gseries",
+"name": "Aditya Chavan",
+"mail": "adityachavan1234@gmail.com",
 "company": "asus",
 "price": 23999,
 "colors": [
@@ -135,7 +142,8 @@
 },
 {
 "id": "thapaserialnoh",
-"name": "Accessories",
+"name": "Vidit Kumar",
+"mail": "viditkumar2234@gmail.com",
 "price": 1099999,
 "company": "lenova",
 "colors": [
@@ -155,7 +163,8 @@
 },
 {
 "id": "thapaserialnoi",
-"name": "Iwatch",
+"name": "Vishal Panchal",
+"mail": "vishalpanchal1234@gmail.com",
 "price": 39999,
 "company": "apple",
 "colors": [
@@ -173,7 +182,8 @@
 },
 {
 "id": "thapaserialnoj",
-"name": "user need",
+"name": "Kunal Kamaraj",
+"mail": "kunalkamaraj1234@gmail.com",
 "company": "apple",
 "price": 300099,
 "colors": [
@@ -192,7 +202,8 @@
 },
 {
 "id": "thapaserialnok",
-"name": "rolex premium",
+"name": "Sudeep kothari",
+"mail": "sudeepkothari1244@gmail.com",
 "company": "rolex",
 "price": 999999,
 "colors": [
@@ -210,7 +221,8 @@
 },
 {
 "id": "thapaserialnol",
-"name": "galaxy w20",
+"name": "Subin Thomas",
+"mail": "subinthomas1234@gmail.com",
 "price": 311999,
 "company": "samsung",
 "colors": [
