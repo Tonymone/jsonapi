@@ -2,6 +2,7 @@
 {
 "id": "thapaserialnoa",
 "name": "Aryan Kumar",
+"gender": "Male",
 "mail": "aryankumar1234@gmail.com",
 "company": "apple company",
 "price": 6000,
@@ -23,6 +24,7 @@
 {
 "id": "thapaserialnob",
 "name": "Tony Thomas",
+"gender": "Male",
 "mail": "tonymone1234@gmail.com",
 "company": "samsung",
 "price": 5000000,
@@ -43,6 +45,7 @@
 {
 "id": "thapaserialnoc",
 "name": "Vishal Jadhav",
+"gender": "Male",
 "mail": "vishaljadhav1234@gmail.com",
 "company": "dell",
 "price": 600000,
@@ -62,6 +65,7 @@
 {
 "id": "thapaserialnod",
 "name": "Amit Kumar",
+"gender": "Male",
 "mail": "amitkumar1234@gmail.com",
 "company": "nokia",
 "price": 12599,
@@ -83,6 +87,7 @@
 {
 "id": "thapaserialnoe",
 "name": "Rajiv Mishra",
+"gender": "Male",
 "mail": "rajivmishra1234@gmail.com",
 "company": "apple",
 "price": 4000099,
@@ -102,7 +107,8 @@
 },
 {
 "id": "thapaserialnof",
-"name": "Sandeep Shrivastav",
+"name": "Katline Harvey",
+"gender": "Female",
 "mail": "sandeepshri1234@gmail.com",
 "company": "apple",
 "price": 42999,
@@ -123,6 +129,7 @@
 {
 "id": "thapaserialnog",
 "name": "Aditya Chavan",
+"gender": "Male",
 "mail": "adityachavan1234@gmail.com",
 "company": "asus",
 "price": 23999,
@@ -143,6 +150,7 @@
 {
 "id": "thapaserialnoh",
 "name": "Vidit Kumar",
+"gender": "Male",
 "mail": "viditkumar2234@gmail.com",
 "price": 1099999,
 "company": "lenova",
@@ -164,6 +172,7 @@
 {
 "id": "thapaserialnoi",
 "name": "Vishal Panchal",
+"gender": "Male",
 "mail": "vishalpanchal1234@gmail.com",
 "price": 39999,
 "company": "apple",
@@ -183,6 +192,7 @@
 {
 "id": "thapaserialnoj",
 "name": "Kunal Kamaraj",
+"gender": "Male",
 "mail": "kunalkamaraj1234@gmail.com",
 "company": "apple",
 "price": 300099,
@@ -203,6 +213,7 @@
 {
 "id": "thapaserialnok",
 "name": "Sudeep kothari",
+"gender": "Male",
 "mail": "sudeepkothari1244@gmail.com",
 "company": "rolex",
 "price": 999999,
@@ -222,6 +233,7 @@
 {
 "id": "thapaserialnol",
 "name": "Subin Thomas",
+"gender": "Female",
 "mail": "subinthomas1234@gmail.com",
 "price": 311999,
 "company": "samsung",
