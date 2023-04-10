@@ -37,7 +37,7 @@
 "education": "University of Mumbai",
 "languages": "Hindi, English, Marathi, German, Urdu, Mandarian, Spanish",
 "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-"category": ["Mobile", "Employment", "Divorce", "Resignation"],
+"category": ["Mobile", "Employment", "Technology", "Resignation"],
 "shipping": true
 },
 {
@@ -57,7 +57,7 @@
 "education": "University of Mumbai",
 "languages": "Hindi, English, Marathi",
 "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-"category": "laptop"
+"category": ["Corporate", "Employment", "Divorce", "Resignation"],
 },
 {
 "id": "thapaserialnod",
@@ -77,7 +77,7 @@
 "education": "University of Mumbai",
 "languages": "Hindi, English, Marathi",
 "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-"category": "mobile",
+"category": ["Financial", "Employment", "Divorce", "Resignation"],
 "shipping": true
 },
 {
@@ -97,7 +97,7 @@
 "education": "University of Mumbai",
 "languages": "Hindi, English, Marathi, Urdu, Italian, Spanish, German",
 "description": "The Computer is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-"category": "computer",
+"category": ["Business", "Corporate", "Financial"],
 "shipping": true
 },
 {
@@ -117,7 +117,7 @@
 "education": "University of Mumbai",
 "languages": "Hindi, English, Marathi",
 "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-"category": "laptop",
+"category": ["Technology", "Employment", "Medical", "Startup"],
 "shipping": true
 },
 {
@@ -137,7 +137,7 @@
 "education": "University of Mumbai",
 "languages": "Hindi, English, Marathi",
 "description": "The laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-"category": "laptop",
+"category": ["Estate Planning", "Employment", "Transactional", "Government"],
 "shipping": true
 },
 {
@@ -157,7 +157,7 @@
 "education": "University of Mumbai",
 "languages": "Hindi, English, Marathi",
 "description": "The accessories is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-"category": "accessories",
+"category": ["Bankruptcy", "Employment", "Contracts"],
 "featured": true,
 "shipping": true
 },
@@ -177,7 +177,7 @@
 "education": "University of Mumbai",
 "languages": "Hindi, English, Marathi",
 "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-"category": "watch",
+"category": ["Technology", "Business"],
 "shipping": true
 },
 {
@@ -198,7 +198,7 @@
 "education": "University of Mumbai",
 "languages": "Hindi, English, Marathi",
 "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-"category": "accessories"
+"category": ["Family", "Employment", "Divorce"],
 },
 {
 "id": "thapaserialnok",
@@ -217,7 +217,7 @@
 "education": "University of Mumbai",
 "languages": "Hindi, English, Marathi",
 "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-"category": "watch"
+"category": ["Intellectual Property", "Business"],
 },
 {
 "id": "thapaserialnol",
@@ -237,7 +237,7 @@
 "education": "University of Mumbai",
 "languages": "Hindi, English, Marathi",
 "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-"category": "watch",
+"category": ["Medical", "Transactional"],
 "featured": true
 }
 ]
