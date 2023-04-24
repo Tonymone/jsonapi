@@ -175,6 +175,10 @@
 "gender": "Male",
 "mail": "vishalpanchal1234@gmail.com",
 "price": 39999,
+"colors": [
+"#ff0000",
+"#000000"
+],
 "company": "apple",
 "image": "https://randomuser.me/api/portraits/men/25.jpg",
 "location": "Andheri, Mumbai",
