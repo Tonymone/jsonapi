@@ -171,21 +171,21 @@
 },
 {
 "id": "thapaserialnoi",
-"name": "Vishal Panchal",
+"name": "Robert Dsouza",
 "gender": "Male",
-"mail": "vishalpanchal1234@gmail.com",
+"mail": "robertdsouza1234@gmail.com",
 "price": 39999,
 "colors": [
 "#000000"
 ],
 "company": "apple",
-"image": "https://randomuser.me/api/portraits/men/25.jpg",
+"image": "https://randomuser.me/api/portraits/men/26.jpg",
 "location": "Andheri, Mumbai",
 "license": "Licensed in Mumbai",
 "experience": 24,
 "education": "University of Mumbai",
 "languages": ["Hindi", "English", "Marathi"],
-"description": "With over 24 years of practice, Vishal uses his vast experiences to assist his clients in the most efficient manner possible. Vishal is a magna cum laude graduate of Government Law College of Mumbai with an extensive background in Business Law, Commercial Real Estate, Corporate Law, Leasing Law and Telecommunications Law. Vishal's prior experience includes 5 years at two of the top law firms in Andheri and 16 years of operating his own private practice.",
+"description": "With over 24 years of practice, Robert uses his vast experiences to assist his clients in the most efficient manner possible. Robert is a magna cum laude graduate of Government Law College of Mumbai with an extensive background in Business Law, Commercial Real Estate, Corporate Law, Leasing Law and Telecommunications Law. Robert's prior experience includes 5 years at two of the top law firms in Andheri and 16 years of operating his own private practice.",
 "category": ["Technology", "Business"],
 "shipping": true
 },
