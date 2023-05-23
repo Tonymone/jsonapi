@@ -232,9 +232,9 @@
 },
 {
 "id": "thapaserialnol",
-"name": "Subin Thomas",
+"name": "Vaishali Bindre",
 "gender": "Female",
-"mail": "subinthomas1234@gmail.com",
+"mail": "vaishalibindre1234@gmail.com",
 "price": 311999,
 "company": "samsung",
 "colors": [
@@ -242,14 +242,14 @@
 "#ff0000",
 "#000000"
 ],
-"image": "https://randomuser.me/api/portraits/women/69.jpg",
+"image": "https://randomuser.me/api/portraits/women/63.jpg",
 "location": "Andheri, Mumbai",
 "license": "Licensed in Mumbai",
 "experience": 35,
 "education": "University of Mumbai",
 "languages": ["Hindi", "English", "Marathi"],
-"description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-"category": ["Medical", "Transactional"],
+"description": "I am the CEO and attorney at my law firm that I started in June 2020 (as other businesses were shuttering due to Covid-19). I am currently seeking contract work to supplement my case load as I recently finalized numerous family law cases within a short timeframe.",
+"category": ["Family Disputes", "Contract"],
 "featured": true
 }
 ]
