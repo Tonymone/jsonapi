@@ -17,8 +17,8 @@
 "experience": 15,
 "education": "University of Mumbai",
 "languages": ["Hindi", "English", "Marathi"],
-"description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-"category": ["Employment", "Divorce", "Incentive Plan"],
+"description": "I am a licensed attorney who specializes in business law, personal injury and contracts.",
+"category": ["Employment", "Incentive Plan"],
 "featured": true
 },
 {
@@ -37,9 +37,9 @@
 "license": "Licensed in Mumbai",
 "experience": 20,
 "education": "University of Mumbai",
-"languages": ["Hindi", "English", "Marathi", "German", "Urdu", "Mandarian", "Spanish"],
-"description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-"category": ["Employment", "Technology", "Resignation"],
+"languages": ["Hindi", "English", "Marathi", "Urdu", "Malayalam"],
+"description": "A seasoned senior executive with experience leading the legal and compliance functions of healthcare entities through high-growth periods. I have experience managing voluminous litigation caseloads, while also handling all pre-litigation investigations for employment, healthcare regulatory, and compliance matters. Finally, I have extensive contract review experience in all matters, including debt and equity financing, healthcare payor contracting, vendor and employment agreements, as well as service and procurement agreements.",
+"category": ["Employment", "Technology", "Business"],
 "shipping": true
 },
 {
@@ -56,10 +56,10 @@
 "image": "https://randomuser.me/api/portraits/men/11.jpg",
 "location": "Borivali, Mumbai",
 "license": "Licensed in Mumbai",
-"experience": 25,
+"experience": 16,
 "education": "University of Mumbai",
 "languages": ["Hindi", "English", "Marathi"],
-"description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+"description": "Brent has been in practice since 2007 and been the principal attorney and owner of The Walker Firm, LLC since 2014. Brent focuses on providing an array of general counsel services to individuals and companies in a variety of industries.",
 "category": ["Corporate", "Employment", "Divorce", "Resignation"]
 },
 {
@@ -86,9 +86,9 @@
 },
 {
 "id": "thapaserialnoe",
-"name": "Rajiv Mishra",
+"name": "Vivek Choudhary",
 "gender": "Male",
-"mail": "rajivmishra1234@gmail.com",
+"mail": "vivekchoudhary1234@gmail.com",
 "company": "apple",
 "price": 4000099,
 "colors": [
@@ -98,10 +98,10 @@
 "image": "https://randomuser.me/api/portraits/men/48.jpg",
 "location": "Andheri, Mumbai",
 "license": "Licensed in Mumbai",
-"experience": 10,
+"experience": 15,
 "education": "University of Mumbai",
 "languages": ["Hindi", "English", "Marathi", "Urdu", "Italian", "Spanish", "German"],
-"description": "The Computer is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+"description": "Since 2008, I have worked to assist clients in solving problems and addressing challenges that inevitably arise as a business grows - both anticipated and unexpected. My experience in Georgia and Tennessee in both drafting contracts and enforcing them via litigation and/or arbitration has provided clients with unique insights that help them anticipate problems and inform their decisions from start to finish.",
 "category": ["Business", "Corporate", "Financial"],
 "shipping": true
 },
@@ -116,14 +116,14 @@
 "#000000",
 "#CDD0D0"
 ],
-"image": "https://randomuser.me/api/portraits/men/51.jpg",
+"image": "https://randomuser.me/api/portraits/women/51.jpg",
 "location": "Andheri, Mumbai",
 "license": "Licensed in Mumbai",
 "experience": 5,
 "education": "University of Mumbai",
 "languages": ["Hindi", "English", "Marathi"],
-"description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-"category": ["Technology", "Employment", "Medical", "Startup"],
+"description": "Experienced sports and entertainment attorney. I specialize in contracts, business formation, licensing, wage disputes, negotiations, and intellectual property.",
+"category": ["Arbitration", "Employment", "Contract", "Startup"],
 "shipping": true
 },
 {
@@ -140,11 +140,11 @@
 "image": "https://randomuser.me/api/portraits/men/86.jpg",
 "location": "Andheri, Mumbai",
 "license": "Licensed in Mumbai",
-"experience": 9,
+"experience": 25,
 "education": "University of Mumbai",
 "languages": ["Hindi", "English", "Marathi"],
-"description": "The laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-"category": ["Estate Planning", "Employment", "Transactional", "Government"],
+"description": "Aditya Chavan has been practicing exclusively in employment law since 1998. He represents and advises clients in all aspects of the employment relationship. In addition to his litigation work, Greg regularly negotiates and drafts corporate policy handbooks, employment contracts, separation agreements and restrictive covenants. He also develops and presents training programs and has spoken and written extensively on labor and employment law topics.",
+"category": ["Estate Planning", "Employment", "Transactional"],
 "shipping": true
 },
 {
@@ -164,8 +164,8 @@
 "experience": 8,
 "education": "University of Mumbai",
 "languages": ["Hindi", "English", "Marathi"],
-"description": "The accessories is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-"category": ["Bankruptcy", "Employment", "Contracts"],
+"description": "As a corporate lawyer, I have dealt with international transactions, complex litigation and arbitration, regulatory compliance, and multijurisdictional tax planning. In March 2021, I started my firm and shifted my professional focus to working with start-ups, small businesses, entrepreneurs, and families. I help my clients structure and run their businesses and take care of their assets, including intellectual property issues and estate planning for their families. I try to bring big law quality and small firm personal attention to every client.",
+"category": ["Bankruptcy", "Employment", "Startup", "Arbitration", "Contracts"],
 "featured": true,
 "shipping": true
 },
@@ -182,10 +182,10 @@
 "image": "https://randomuser.me/api/portraits/men/25.jpg",
 "location": "Andheri, Mumbai",
 "license": "Licensed in Mumbai",
-"experience": 3,
+"experience": 24,
 "education": "University of Mumbai",
 "languages": ["Hindi", "English", "Marathi"],
-"description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+"description": "With over 24 years of practice, Vishal uses his vast experiences to assist his clients in the most efficient manner possible. Vishal is a magna cum laude graduate of Government Law College of Mumbai with an extensive background in Business Law, Commercial Real Estate, Corporate Law, Leasing Law and Telecommunications Law. Vishal's prior experience includes 5 years at two of the top law firms in Andheri and 16 years of operating his own private practice.",
 "category": ["Technology", "Business"],
 "shipping": true
 },
@@ -204,10 +204,10 @@
 "image": "https://randomuser.me/api/portraits/men/50.jpg",
 "location": "Andheri, Mumbai",
 "license": "Licensed in Mumbai",
-"experience": 1,
+"experience": 10,
 "education": "University of Mumbai",
 "languages": ["Hindi", "English", "Marathi"],
-"description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+"description": "Kunal Kamaraj helps businesses and their owners with general counsel and contract drafting services. He has helped over 500 businesses with their legal needs across a variety of industries in nearly a decade of practice.",
 "category": ["Family", "Employment", "Divorce"]
 },
 {
@@ -225,10 +225,10 @@
 "location": "Andheri, Mumbai",
 "license": "Licensed in Mumbai",
 "experience": 27,
-"education": "University of Mumbai",
+"education": "D Y Patil University, Navi Mumbai",
 "languages": ["Hindi", "English", "Marathi"],
-"description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-"category": ["Intellectual Property", "Business"]
+"description": "I work with early stage startups (in Mumbai and internationally) with their formation, contract, patent and investment needs.",
+"category": ["Patents", "Startup"]
 },
 {
 "id": "thapaserialnol",
@@ -242,7 +242,7 @@
 "#ff0000",
 "#000000"
 ],
-"image": "https://randomuser.me/api/portraits/men/69.jpg",
+"image": "https://randomuser.me/api/portraits/women/69.jpg",
 "location": "Andheri, Mumbai",
 "license": "Licensed in Mumbai",
 "experience": 35,
