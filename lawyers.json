@@ -23,7 +23,7 @@
 },
 {
 "id": "thapaserialnob",
-"name": "Tony Thomas",
+"name": "Ankush Yadav",
 "gender": "Male",
 "mail": "tonymone1234@gmail.com",
 "company": "samsung",
@@ -32,7 +32,7 @@
 "#000",
 "#22D3EF"
 ],
-"image": "https://randomuser.me/api/portraits/men/91.jpg",
+"image": "https://randomuser.me/api/portraits/men/93.jpg",
 "location": "Bandra, Mumbai",
 "license": "Licensed in Mumbai",
 "experience": 20,
@@ -74,7 +74,7 @@
 "#000000",
 "#CDD0D0"
 ],
-"image": "https://randomuser.me/api/portraits/men/48.jpg",
+"image": "https://randomuser.me/api/portraits/men/58.jpg",
 "location": "Mumbai",
 "license": "Licensed in Mumbai",
 "experience": 15,
