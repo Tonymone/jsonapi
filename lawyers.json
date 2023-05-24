@@ -11,7 +11,7 @@
 "#000000",
 "#CDD0D0"
 ],
-"image": "https://randomuser.me/api/portraits/men/46.jpg",
+"image": "https://randomuser.me/api/portraits/men/41.jpg",
 "location": "Mumbai",
 "license": "Licensed in Mumbai",
 "experience": 15,
@@ -74,7 +74,7 @@
 "#000000",
 "#CDD0D0"
 ],
-"image": "https://randomuser.me/api/portraits/men/47.jpg",
+"image": "https://randomuser.me/api/portraits/men/48.jpg",
 "location": "Mumbai",
 "license": "Licensed in Mumbai",
 "experience": 15,
@@ -151,14 +151,14 @@
 "id": "thapaserialnoh",
 "name": "Vidit Kumar",
 "gender": "Male",
-"mail": "viditkumar2234@gmail.com",
+"mail": "viditkumar1234@gmail.com",
 "price": 1099999,
 "company": "lenova",
 "colors": [
 "#000",
 "#CDD0D0"
 ],
-"image": "https://randomuser.me/api/portraits/men/21.jpg",
+"image": "https://randomuser.me/api/portraits/men/22.jpg",
 "location": "Andheri, Mumbai",
 "license": "Licensed in Mumbai",
 "experience": 8,
@@ -212,9 +212,9 @@
 },
 {
 "id": "thapaserialnok",
-"name": "Sudeep kothari",
+"name": "Sudeep Kothari",
 "gender": "Male",
-"mail": "sudeepkothari1244@gmail.com",
+"mail": "sudeepkothari1234@gmail.com",
 "company": "rolex",
 "price": 999999,
 "colors": [
