@@ -1,7 +1,7 @@
 [
 {
 "id": "thapaserialnoa",
-"name": "Aryan Kumar",
+"name": "Aryan Trivedi",
 "gender": "Male",
 "mail": "aryankumar1234@gmail.com",
 "company": "apple company",
@@ -11,7 +11,7 @@
 "#000000",
 "#CDD0D0"
 ],
-"image": "https://randomuser.me/api/portraits/men/41.jpg",
+"image": "https://randomuser.me/api/portraits/men/40.jpg",
 "location": "Mumbai",
 "license": "Licensed in Mumbai",
 "experience": 15,
@@ -32,7 +32,7 @@
 "#000",
 "#22D3EF"
 ],
-"image": "https://randomuser.me/api/portraits/men/93.jpg",
+"image": "https://randomuser.me/api/portraits/men/92.jpg",
 "location": "Bandra, Mumbai",
 "license": "Licensed in Mumbai",
 "experience": 20,
@@ -149,7 +149,7 @@
 },
 {
 "id": "thapaserialnoh",
-"name": "Vidit Kumar",
+"name": "Vidit Tripathi",
 "gender": "Male",
 "mail": "viditkumar1234@gmail.com",
 "price": 1099999,
@@ -158,7 +158,7 @@
 "#000",
 "#CDD0D0"
 ],
-"image": "https://randomuser.me/api/portraits/men/22.jpg",
+"image": "https://randomuser.me/api/portraits/men/12.jpg",
 "location": "Andheri, Mumbai",
 "license": "Licensed in Mumbai",
 "experience": 8,
