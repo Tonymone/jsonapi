@@ -360,7 +360,23 @@
 "education": "University of Mumbai",
 "languages": ["Hindi", "English", "Marathi"],
 "description": "Kunal Kamaraj helps businesses and their owners with general counsel and contract drafting services. He has helped over 500 businesses with their legal needs across a variety of industries in nearly a decade of practice.",
-"category": ["Family", "Employment", "Divorce"]
+"category": ["Family", "Employment", "Divorce"],
+"contracts": [
+    "Consultant Fee Agreement",
+    "Consulting Agreement",
+    "Consulting Letter Agreement",
+    "Contractor Agreement",
+    "Drywall Contract",
+    "Exclusive Consulting Contract",
+    "Flooring Contracts",
+    "Form Of Consulting Agreement",
+    "Handyman Contract",
+    "House Painting Contract",
+    "Painting Contract",
+    "Pool Cleaning Contract",
+    "Pressure Washing Contract",
+    "Tree Service Contract"
+],
 },
 {
 "id": "thapaserialnok",
@@ -381,7 +397,21 @@
 "education": "D Y Patil University, Navi Mumbai",
 "languages": ["Hindi", "English", "Marathi"],
 "description": "I work with early stage startups (in Mumbai and internationally) with their formation, contract, patent and investment needs.",
-"category": ["Patents", "Startup"]
+"category": ["Patents", "Startup"],
+"contracts": [
+    "Consultant Fee Agreement",
+    "Consulting Agreement",
+    "Consulting Letter Agreement",
+    "Exclusive Consulting Contract",
+    "Flooring Contracts",
+    "Form Of Consulting Agreement",
+    "House Painting Contract",
+    "Nanny Contract",
+    "Painting Contract",
+    "Pool Cleaning Contract",
+    "Pressure Washing Contract",
+    "Tree Service Contract"
+],
 },
 {
 "id": "thapaserialnol",
@@ -404,6 +434,22 @@
 "languages": ["Hindi", "English", "Marathi"],
 "description": "I am the CEO and attorney at my law firm that I started in June 2020 (as other businesses were shuttering due to Covid-19). I am currently seeking contract work to supplement my case load as I recently finalized numerous family law cases within a short timeframe.",
 "category": ["Family Disputes", "Contract"],
+"contracts": [
+    "Consultant Fee Agreement",
+    "Consulting Agreement",
+    "Consulting Letter Agreement",
+    "Contractor Agreement",
+    "Drywall Contract",
+    "Exclusive Consulting Contract",
+    "Flooring Contracts",
+    "Form Of Consulting Agreement",
+    "Handyman Contract",
+    "House Painting Contract",
+    "Nanny Contract",
+    "Painting Contract",
+    "Pressure Washing Contract",
+    "Tree Service Contract"
+],
 "featured": true
 }
 ]
