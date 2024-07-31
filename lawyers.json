@@ -20,7 +20,7 @@
 "languages": ["Hindi", "English", "Marathi"],
 "description": "Aryan Trivedi has been practicing exclusively in employment law since 1998. He represents and advises clients in all aspects of the employment relationship. In addition to his litigation work, Greg regularly negotiates and drafts corporate policy handbooks, employment contracts, separation agreements and restrictive covenants. He also develops and presents training programs and has spoken and written extensively on labor and employment law topics.",
 "category": ["Employment", "Incentive Plan"],
-"contracts" = [
+"contracts": [
     "Consultant Fee Agreement",
     "Consulting Agreement",
     "Consulting Letter Agreement",
@@ -59,7 +59,7 @@
 "languages": ["Hindi", "English", "Marathi", "Urdu", "Malayalam"],
 "description": "A seasoned senior executive with experience leading the legal and compliance functions of healthcare entities through high-growth periods. I have experience managing voluminous litigation caseloads, while also handling all pre-litigation investigations for employment, healthcare regulatory, and compliance matters. Finally, I have extensive contract review experience in all matters, including debt and equity financing, healthcare payor contracting, vendor and employment agreements, as well as service and procurement agreements.",
 "category": ["Employment", "Technology", "Business"],
-"contracts" = [
+"contracts": [
     "Equity Funding Agreement",
     "Fixed Rate Note",
     "Investment Agreement",
