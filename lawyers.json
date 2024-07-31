@@ -20,6 +20,23 @@
 "languages": ["Hindi", "English", "Marathi"],
 "description": "Aryan Trivedi has been practicing exclusively in employment law since 1998. He represents and advises clients in all aspects of the employment relationship. In addition to his litigation work, Greg regularly negotiates and drafts corporate policy handbooks, employment contracts, separation agreements and restrictive covenants. He also develops and presents training programs and has spoken and written extensively on labor and employment law topics.",
 "category": ["Employment", "Incentive Plan"],
+"contracts" = [
+    "Consultant Fee Agreement",
+    "Consulting Agreement",
+    "Consulting Letter Agreement",
+    "Contractor Agreement",
+    "Drywall Contract",
+    "Exclusive Consulting Contract",
+    "Flooring Contracts",
+    "Form Of Consulting Agreement",
+    "Handyman Contract",
+    "House Painting Contract",
+    "Nanny Contract",
+    "Painting Contract",
+    "Pool Cleaning Contract",
+    "Pressure Washing Contract",
+    "Tree Service Contract"
+],
 "featured": true
 },
 {
@@ -42,6 +59,23 @@
 "languages": ["Hindi", "English", "Marathi", "Urdu", "Malayalam"],
 "description": "A seasoned senior executive with experience leading the legal and compliance functions of healthcare entities through high-growth periods. I have experience managing voluminous litigation caseloads, while also handling all pre-litigation investigations for employment, healthcare regulatory, and compliance matters. Finally, I have extensive contract review experience in all matters, including debt and equity financing, healthcare payor contracting, vendor and employment agreements, as well as service and procurement agreements.",
 "category": ["Employment", "Technology", "Business"],
+"contracts" = [
+    "Equity Funding Agreement",
+    "Fixed Rate Note",
+    "Investment Agreement",
+    "Master Note",
+    "Promissory Note",
+    "Promissory Note Agreement",
+    "Promissory Note And Security Agreement",
+    "Promissory Note Extension",
+    "Promissory Note Secured By Deed Of Trust",
+    "Promissory Note Transfer Contract",
+    "Revolving Line Of Credit Promissory Note",
+    "Revolving Promissory Note",
+    "Secured Convertible Promissory Note",
+    "Secured Promissory Note",
+    "Technology Investment Agreement"
+],
 "shipping": true
 },
 {
@@ -63,7 +97,17 @@
 "education": "University of Mumbai",
 "languages": ["Hindi", "English", "Marathi"],
 "description": "Brent has been in practice since 2007 and been the principal attorney and owner of The Walker Firm, LLC since 2014. Brent focuses on providing an array of general counsel services to individuals and companies in a variety of industries.",
-"category": ["Corporate", "Employment", "Divorce", "Resignation"]
+"category": ["Corporate", "Employment", "Divorce", "Resignation"],
+"contracts": [
+    "Antenuptial Agreement",
+    "Marriage Agreement",
+    "Marriage Contract",
+    "Nuptial Agreement",
+    "Premarital Agreement",
+    "Prenuptial Agreement",
+    "Quitclaim",
+    "Quitclaim Deed"
+  ]
 },
 {
 "id": "thapaserialnod",
@@ -86,6 +130,19 @@
 "languages": ["Hindi", "English", "Marathi"],
 "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
 "category": ["Financial", "Employment", "Divorce", "Resignation"],
+"contracts": [
+    "Building Contract",
+    "Building Lease",
+    "Building Lease Agreement",
+    "Building Use Agreement",
+    "Commercial Building Lease",
+    "Industrial Lease Agreement",
+    "Land And Building Lease",
+    "Single Member LLC",
+    "Standard Industrial Lease",
+    "Waiver",
+    "Warehouse Lease Agreement"
+],
 "shipping": true
 },
 {
@@ -108,6 +165,23 @@
 "languages": ["Hindi", "English", "Marathi", "Urdu", "Italian", "Spanish", "German"],
 "description": "Since 2008, I have worked to assist clients in solving problems and addressing challenges that inevitably arise as a business grows - both anticipated and unexpected. My experience in Georgia and Tennessee in both drafting contracts and enforcing them via litigation and/or arbitration has provided clients with unique insights that help them anticipate problems and inform their decisions from start to finish.",
 "category": ["Business", "Corporate", "Financial"],
+"contracts": [
+  "Administrative Services Contract",
+  "Buy-Sell Agreement",
+  "Compensation Agreement",
+  "Contract Services Agreement",
+  "Endodontic Associate Contract",
+  "General Services Agreement",
+  "Home Rental Contract",
+  "Logistics Services Agreement",
+  "Mutual Services Agreement",
+  "Personal Services Agreement",
+  "Service Contract Agreement",
+  "Service Provider Contract",
+  "Software Development Contract",
+  "Tour Operator Contract",
+  "Website Development Contract"
+],
 "shipping": true
 },
 {
@@ -130,6 +204,23 @@
 "languages": ["Hindi", "English", "Marathi"],
 "description": "Experienced sports and entertainment attorney. I specialize in contracts, business formation, licensing, wage disputes, negotiations, and intellectual property.",
 "category": ["Arbitration", "Employment", "Contract", "Startup"],
+"contracts": [
+  "Accounts Receivable Purchase Contract",
+  "Agreement To Purchase And Sell",
+  "Buyers Sellers Contract",
+  "Compromise And Settlement Agreement",
+  "Contract for Purchase",
+  "Distributor Settlement Agreement",
+  "Fitness Membership Contract",
+  "Hold Harmless Settlement Agreement",
+  "Marital Settlement Agreement",
+  "Option And Literary Purchase Agreement",
+  "Purchase Money Note",
+  "Receivables Purchase Agreement",
+  "Settlement Agreement And Release",
+  "Vehicle Sales Agreement",
+  "Wedding Contract"
+],
 "shipping": true
 },
 {
@@ -152,6 +243,23 @@
 "languages": ["Hindi", "English", "Marathi"],
 "description": "Aditya Chavan has been practicing exclusively in employment law since 1998. He represents and advises clients in all aspects of the employment relationship. In addition to his litigation work, Greg regularly negotiates and drafts corporate policy handbooks, employment contracts, separation agreements and restrictive covenants. He also develops and presents training programs and has spoken and written extensively on labor and employment law topics.",
 "category": ["Estate Planning", "Employment", "Transactional"],
+"contracts": [
+  "Commercial Real Estate Purchase Agreement",
+  "Commercial Real Estate Purchase Contract",
+  "Contract for Sale of Real Estate",
+  "Contract for Selling a House",
+  "Contract to Purchase Real Estate",
+  "Purchase Contract for Home",
+  "Purchase Contract Real Estate",
+  "Purchase Home Contract",
+  "Real Estate Acquisition",
+  "Real Estate Contract",
+  "Real Estate Purchase Agreement",
+  "Real Estate Purchase Contract",
+  "Real Estate Purchase Offer",
+  "Real Property Purchase Agreement",
+  "Timeshare Agreement"
+],
 "shipping": true
 },
 {
@@ -174,6 +282,23 @@
 "languages": ["Hindi", "English", "Marathi"],
 "description": "As a corporate lawyer, I have dealt with international transactions, complex litigation and arbitration, regulatory compliance, and multijurisdictional tax planning. In March 2021, I started my firm and shifted my professional focus to working with start-ups, small businesses, entrepreneurs, and families. I help my clients structure and run their businesses and take care of their assets, including intellectual property issues and estate planning for their families. I try to bring big law quality and small firm personal attention to every client.",
 "category": ["Bankruptcy", "Employment", "Contracts"],
+"contracts": [
+  "Antenuptial Agreement",
+  "Confidential Separation Agreement And General Release",
+  "Employee Separation Agreement",
+  "Employment Separation Agreement",
+  "Employment Termination And Release Agreement",
+  "Mutual Separation Agreement",
+  "Mutual Separation Contract",
+  "Nuptial Agreement",
+  "Postnuptial Agreement",
+  "Premarital Agreement",
+  "Prenuptial Agreement",
+  "Resignation Agreement And General Release",
+  "Separation Agreement And Release",
+  "Termination And Release",
+  "Termination And Release Agreement"
+],
 "featured": true,
 "shipping": true
 },
@@ -196,6 +321,23 @@
 "languages": ["Hindi", "English", "Marathi"],
 "description": "With over 24 years of practice, Robert uses his vast experiences to assist his clients in the most efficient manner possible. Robert is a magna cum laude graduate of Government Law College of Mumbai with an extensive background in Business Law, Commercial Real Estate, Corporate Law, Leasing Law and Telecommunications Law. Robert's prior experience includes 5 years at two of the top law firms in Andheri and 16 years of operating his own private practice.",
 "category": ["Technology", "Business"],
+"contracts": [
+  "Business Lease",
+  "Call Center Contract",
+  "Car Wash Lease Agreement",
+  "Cleaning Business Contract",
+  "Commercial Cleaning Contract",
+  "Commercial Lease Extension",
+  "Equity Incentive Plan",
+  "Hold Harmless Settlement Agreement",
+  "Master Settlement Agreement",
+  "Medical Office Lease",
+  "Office Lease",
+  "Speaker Engagement Agreement",
+  "Stock Award Agreement",
+  "Sweat Equity Agreement",
+  "Travel Agency Agreement"
+],
 "shipping": true
 },
 {
