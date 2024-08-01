@@ -16,7 +16,7 @@
     "location": "Mumbai",
     "license": "Licensed in Mumbai",
     "experience": 15,
-    "courts" : ["A.D.J Kotputali", "Additional District and Session Court, Vasai"],
+    "courts": ["A.D.J Kotputali", "Additional District and Session Court, Vasai"],
     "memberSince": "October 14, 2013",
     "education": "University of Mumbai",
     "languages": ["Hindi", "English", "Marathi"],
@@ -184,7 +184,7 @@
     "location": "Andheri, Mumbai",
     "license": "Licensed in Mumbai",
     "experience": 8,
-    "courts":     [
+    "courts": [
       "Civil Court Junior Division, Vasai", 
       "Civil Court Koderma, Jharkhand", 
       "Civil Court Ramnagar", 
@@ -224,7 +224,7 @@
     "location": "Andheri, Mumbai",
     "license": "Licensed in Mumbai",
     "experience": 24,
-    "courts":     [
+    "courts": [
       "Civil Court, Lucknow", 
       "Civil Court, Mathura", 
       "Civil Court, Muzaffarpur", 
@@ -280,7 +280,7 @@
       "Consumer Forum North, Tiz Hazari", 
       "Consumer Forum West, Janakpuri", 
       "Consumer Forum, Panchkula", 
-      "Consumer Redressal Forum ,J& K"
+      "Consumer Redressal Forum, J&K"
     ],
     "memberSince": "October 17, 2013",
     "education": "University of Mumbai",
