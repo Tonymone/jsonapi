@@ -14,7 +14,7 @@
       "#CDD0D0"
       ],
       "image": "https://randomuser.me/api/portraits/men/40.jpg",
-      "location": "Mumbai",
+      "location": "Mumbai City",
       "license": "Licensed in Mumbai",
       "experience": 15,
       "courts": ["Bombay High Court"],
@@ -64,7 +64,7 @@
       "#CDD0D0"
       ],
       "image": "https://randomuser.me/api/portraits/men/11.jpg",
-      "location": "Borivali, Mumbai",
+      "location": "Mumbai Suburban",
       "license": "Licensed in Mumbai",
       "experience": 16,
       "courts":  ["Armed Forces Tribunal, Circuit Bench, Jodhpur", "Bagalkot Court, Karnataka", "Baghpat Consumer Dispute Redressal Forum", "Bangalore District Court", "Bankshall Court, Kolkata", "Bankura District Court", "Bhilwara District Consumer Forum", "Bihar Land Tribunal", "Bilaspur District Forum", "Bilaspur High Court, Chhattisgarh", "Board for Industrial and Financial Reconstruction", "Board Of Revenue Rajasthan, Ajmer", "Bombay High Court", "Bombay High Court", "Bombay High Court"],
@@ -89,10 +89,10 @@
       "#CDD0D0"
       ],
       "image": "https://randomuser.me/api/portraits/men/58.jpg",
-      "location": "Mumbai",
+      "location": "Mumbai Suburban",
       "license": "Licensed in Mumbai",
-      "experience": 15,
-      "courts": ["Bombay High Court", "Bombay High Court Panaji Bench", "Calcutta High Court", "Central Administrative Tribunal (CAT) Ahmedabad", "Central Administrative Tribunal (CAT) Allahabad", "Central Administrative Tribunal (CAT) Bangalore", "Central Administrative Tribunal (CAT) Chandigarh", "Central Administrative Tribunal (CAT) Cuttack", "Central Administrative Tribunal (CAT) Delhi", "Central Administrative Tribunal (CAT) Ernakulam", "Central Administrative Tribunal (CAT) Guwahati", "Central Administrative Tribunal (CAT) Gwalior", "Central Administrative Tribunal (CAT) Hyderabad", "Central Administrative Tribunal (CAT) Indore"],
+      "experience": 13,
+      "courts": ["Bombay High Court", "Bombay High Court Panaji Bench", "Central Administrative Tribunal (CAT) Mumbai"],
       "memberSince": "September 14, 2017",
       "education": "University of Mumbai",
       "languages": ["Hindi", "English", "Marathi"],
@@ -138,7 +138,7 @@
       "#CDD0D0"
       ],
       "image": "https://randomuser.me/api/portraits/women/51.jpg",
-      "location": "Anna Nagar, Chennai",
+      "location": "Chennai",
       "license": "Licensed in Chennai",
       "experience": 5,
       "courts": ["Consumer Court Chennai", "District Court Chennai", "Family Court Chennai", "Madras High Court"],
@@ -163,7 +163,7 @@
       "#000"
       ],
       "image": "https://randomuser.me/api/portraits/men/86.jpg",
-      "location": "Greater Noida, Delhi",
+      "location": "South Delhi",
       "license": "Licensed in Delhi",
       "experience": 25,
       "courts": ["Delhi High Court", "District Court Gautam Budh Nagar", "District Court Karkardooma", "District Court Patiala House", "District Court Saket", "District Court Tis Hazari", "Supreme Court Of India"],
