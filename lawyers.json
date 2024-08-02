@@ -263,16 +263,16 @@
       "#CDD0D0"
       ],
       "image": "https://randomuser.me/api/portraits/men/56.jpg",
-      "location": "Andheri, Mumbai",
-      "license": "Licensed in Mumbai",
+      "location": "Bangalore",
+      "license": "Licensed in Karnataka",
       "experience": 27,
       "courts": ["Arbitration Centre -Karnataka", "Bangalore District Court", "Chief Metropolitan Magistrate Court Bangalore", "City Civil Court Bangalore", "Debts Recovery Tribunal (DRT) Bangalore", "Family Court Bangalore", "Karnataka Appellate Tribunal Bangalore", "Karnataka High Court", "Karnataka State Consumer Dispute Redressal Commission Bangalore", "National Company Law Tribunal (NCLT) Bengaluru", "Supreme Court Of India", "Trial Courts Bangalore"],
       "memberSince": "December 19, 2013",
       "education": "University College of Law, Bangalore University, Bangalore",
-      "languages": ["Hindi", "English", "Marathi"],
+      "languages": ["Hindi", "English", "Kannada"],
       "description": "Advocate Jagadish has been practicing and handling cases independently with a result oriented approach, both professionally and ethically and has now acquired many years of professional experience in providing legal consultancy and advisory services. Advocate Jagadish Shivkumar provides services in various field of Startups, Patents and vetting of various agreements and documents. Advocate Sunil enrolled with the Bar Council of Karnataka in 2006.",
       "category": ["Patents", "Startup"],
-      "contracts": ["Patent Registration", "Patent Infringement", "Licensing", "Business Formation", "Venture Capital is very big and this is the last contracts of jagadish Shivkumar"]
+      "contracts": ["Patent Registration", "Patent Infringement", "Licensing", "Business Formation", "Venture Capital", "Intellectual Property"]
     },
     {
       "id": "thapaserialnol",
