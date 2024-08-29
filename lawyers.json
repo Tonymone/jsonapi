@@ -6,13 +6,7 @@
       "rating": 4.3,
       "gender": "Male",
       "mail": "aryankumar1234@gmail.com",
-      "company": "apple company",
       "price": 6000,
-      "colors": [
-        "#ff0000",
-        "#000000",
-        "#CDD0D0"
-      ],
       "image": "https://randomuser.me/api/portraits/men/40.jpg",
       "location": "Mumbai City",
       "license": "Licensed in Mumbai",
@@ -64,12 +58,7 @@
       "rating": 3.5,
       "gender": "Male",
       "mail": "khagendralamichhane@gmail.com",
-      "company": "samsung",
       "price": 5000000,
-      "colors": [
-        "#000",
-        "#22D3EF"
-      ],
       "image": "https://randomuser.me/api/portraits/men/92.jpg",
       "location": "Palghar",
       "license": "Licensed in Mumbai",
@@ -122,12 +111,7 @@
       "rating": 4.8,
       "gender": "Male",
       "mail": "vishaljadhav1234@gmail.com",
-      "company": "dell",
       "price": 600000,
-      "colors": [
-        "#22D3EF",
-        "#CDD0D0"
-      ],
       "image": "https://randomuser.me/api/portraits/men/11.jpg",
       "location": "Mumbai Suburban",
       "license": "Licensed in Mumbai",
@@ -185,13 +169,7 @@
       "rating": 4.6,
       "gender": "Male",
       "mail": "amitkumar1234@gmail.com",
-      "company": "nokia",
       "price": 12599,
-      "colors": [
-        "#000",
-        "#000000",
-        "#CDD0D0"
-      ],
       "image": "https://randomuser.me/api/portraits/men/58.jpg",
       "location": "Mumbai Suburban",
       "license": "Licensed in Mumbai",
@@ -234,12 +212,7 @@
       "rating": 4.1,
       "gender": "Male",
       "mail": "vivekchoudhary1234@gmail.com",
-      "company": "apple",
       "price": 4000099,
-      "colors": [
-        "#000",
-        "#CDD0D0"
-      ],
       "image": "https://randomuser.me/api/portraits/men/48.jpg",
       "location": "Kolkata",
       "license": "Licensed in West Bengal",
@@ -290,12 +263,7 @@
       "rating": 3.7,
       "gender": "Female",
       "mail": "katlineharvey1234@gmail.com",
-      "company": "apple",
       "price": 42999,
-      "colors": [
-        "#000000",
-        "#CDD0D0"
-      ],
       "image": "https://randomuser.me/api/portraits/women/51.jpg",
       "location": "Chennai",
       "license": "Licensed in Chennai",
@@ -347,12 +315,7 @@
       "rating": 4,
       "gender": "Male",
       "mail": "adityachavan1234@gmail.com",
-      "company": "asus",
       "price": 23999,
-      "colors": [
-        "#CDD0D0",
-        "#000"
-      ],
       "image": "https://randomuser.me/api/portraits/men/86.jpg",
       "location": "South Delhi",
       "license": "Licensed in Delhi",
@@ -400,11 +363,6 @@
       "gender": "Male",
       "mail": "varikkoliljohn1234@gmail.com",
       "price": 1099999,
-      "company": "lenova",
-      "colors": [
-        "#000",
-        "#CDD0D0"
-      ],
       "image": "https://randomuser.me/api/portraits/men/12.jpg",
       "location": "Trivandrum / Thiruvananthapuram",
       "license": "Licensed in Kerela",
@@ -445,10 +403,6 @@
       "gender": "Male",
       "mail": "sujitnambodri1234@gmail.com",
       "price": 39999,
-      "colors": [
-        "#000000"
-      ],
-      "company": "apple",
       "image": "https://randomuser.me/api/portraits/men/26.jpg",
       "location": "Mumbai City",
       "license": "Licensed in Maharashtra",
@@ -492,13 +446,7 @@
       "rating": 4.2,
       "gender": "Female",
       "mail": "hinasavadia1234@gmail.com",
-      "company": "apple",
       "price": 300099,
-      "colors": [
-        "#ff0000",
-        "#22D3EF",
-        "#000000"
-      ],
       "image": "https://randomuser.me/api/portraits/women/50.jpg",
       "location": "Amhedabad",
       "license": "Licensed in Gujarat",
@@ -539,12 +487,7 @@
       "rating": 4.8,
       "gender": "Male",
       "mail": "tonymone1234@gmail.com",
-      "company": "rolex",
       "price": 999999,
-      "colors": [
-        "#000000",
-        "#CDD0D0"
-      ],
       "image": "https://randomuser.me/api/portraits/men/56.jpg",
       "location": "Bangalore",
       "license": "Licensed in Karnataka",
@@ -592,12 +535,6 @@
       "gender": "Female",
       "mail": "vaishalibindre1234@gmail.com",
       "price": 311999,
-      "company": "samsung",
-      "colors": [
-        "#22D3EF",
-        "#ff0000",
-        "#000000"
-      ],
       "image": "https://randomuser.me/api/portraits/women/63.jpg",
       "location": "Gurugram / Gurgaon",
       "license": "Licensed in Haryana",
